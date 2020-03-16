@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "807362474484",
+    "firebase_url": "https://enviar-ca2eb.firebaseio.com",
+    "project_id": "enviar-ca2eb",
+    "storage_bucket": "enviar-ca2eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807362474484:android:d399ebcb729c9944db49a1",
+        "android_client_info": {
+          "package_name": "com.example.z.firebaseenviar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807362474484-in49booo5b5kbhho6a44ct9a7mfh7i7g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.z.firebaseenviar",
+            "certificate_hash": "def9c6c7d235b47fab9579470e46e9e50f4285d6"
+          }
+        },
+        {
+          "client_id": "807362474484-qqdlv7430v4d0627419gmjo1gqoke5ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGoPYnCBYkCDor_DRutQoqvuyDCaGzBTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807362474484-qqdlv7430v4d0627419gmjo1gqoke5ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
